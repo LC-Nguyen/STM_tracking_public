@@ -1,0 +1,4 @@
+neural network filters
+monte carlo - do p-variation test for FBM vs CTRW,
+or eMSD vs etMSD
+neural network - reduce length, change labeling, keep class distribution same

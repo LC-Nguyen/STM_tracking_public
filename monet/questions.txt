@@ -1,0 +1,6 @@
+why use mse loss on optimizer
+sigmoid activation?
+CNN's versus RNN's
+max pooling would be a downsampling op? how does 
+this compare to FFN.
+Reasons for the second to last 128 neuron layer?
