@@ -1,0 +1,9 @@
+pySPM==0.6.2
+freud-analysis==3.3.1
+pims
+opencv-python==4.11.0.86
+ipywidgets
+ipympl
+stochastic
+ipykernel
+git+https://github.com/LC-Nguyen/trackpy.git@master
