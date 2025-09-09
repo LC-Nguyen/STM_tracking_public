@@ -146,6 +146,7 @@ After setup, activate your environment and start working:
 conda activate elm_env
 jupyter notebook
 ```
+You can use jupyter lab instead if you prefer.
 
 Select the `elmloc310_kernel` when creating or opening notebooks.
 
