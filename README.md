@@ -148,8 +148,7 @@ jupyter notebook
 ```
 You can use jupyter lab instead if you prefer.
 
-Select the `elmloc310_kernel` when creating or opening notebooks.
-
+Select the `elmloc310_kernel` when creating or opening notebooks. The Introduction notebook explains how the code works. For actual workflow, I would suggest looking at parameter_tuning first and then CTRW_machine_learning.
 ## Support
 
 If you encounter issues not covered in this README, please check the repository's issue tracker or create a new issue with detailed information about your setup and the problem encountered.
