@@ -49,7 +49,7 @@ cd STM_tracking_public
 ### 4. Install Python Libraries
 
 ```bash
-pip install --no-deps -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 5. Install TensorFlow
